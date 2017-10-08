@@ -1,2 +1,2 @@
 # gh-pages-sample
-GitHub Pages Sample
+gh-pages-sample
