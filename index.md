@@ -7,3 +7,5 @@ layout: page
 
 home
 ====
+
+homeです。
