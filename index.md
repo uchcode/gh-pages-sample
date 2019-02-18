@@ -9,6 +9,7 @@ home
 ====
 
 [sandbox](sandbox)
+[page1](page1)
 
 こんにちは。
 
