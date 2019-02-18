@@ -6,11 +6,7 @@ layout: home
 author_profile: true
 ---
 
-home
-====
-
 [sandbox](sandbox)
 [page1](page1)
 
 こんにちは。ok
-
